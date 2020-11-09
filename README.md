@@ -6,7 +6,7 @@ A script to retrieve the quoted-search-results (QSR) for any query or set of que
 
 *Why* 
 
-The [QSR](https://www.noviceaffiliate.com/seo-tip-1-finding-the-real-qsr-quoted-search-results-in-google-search/) represents the number of web pages currently ranking for a query on google 
+The [QSR](https://www.noviceaffiliate.com/seo-tip-1-finding-the-real-qsr-quoted-search-results-in-google-search/) represents the number of web pages currently ranking for a query on google. Can be thought of as a measure of competition. 
 
 *How* 
 
